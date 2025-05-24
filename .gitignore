@@ -1,0 +1,5 @@
+# Test ledger data
+test-ledger/
+
+# OS generated files
+.DS_Store
